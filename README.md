@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @satishbhagal
-- 👀 I’m interested in Web/Graphic Design & Wordpress Development also
+- 👀 I’m interested in Dot Net Development, Web/Graphic Design & Wordpress Development also
 
 
 <!---
